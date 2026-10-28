@@ -27,8 +27,8 @@ I'm a senior Computer Science student on the cybersecurity track at **Effat Univ
 
 | Project | What it does | Focus |
 |---|---|---|
-| [**Purple-Team Lateral Movement Detection**](https://github.com/zainabthaa/lateral-movement-showcase) | A simulated network of 13 containers on 3 subnets. It emulates 20 ATT&CK techniques, detects them with a custom IDS and maps the detections to NIST CSF, ISO 27001 and NCA ECC | SecOps · GRC |
-| [**Compliance-as-Code Pipeline**](https://github.com/zainabthaa/compliance-as-code-pipeline) | A GitHub Actions pipeline that blocks non-compliant Terraform at the pull-request stage, using 10 CIS and custom controls in OPA/Rego | Cloud · DevSecOps |
+| [**Purple-Team Lateral Movement Detection**](https://github.com/zainabthaa/lateral-movement-showcase) | A simulated network of 13 containers on 3 subnets. It emulates 20 ATT&CK techniques, detects them with a custom IDS and maps the detections to NIST CSF, ISO 27001 and NCA ECC | SOC · Attack · GRC |
+| [**Compliance-as-Code Pipeline**](https://github.com/zainabthaa/compliance-as-code-pipeline) | A GitHub Actions pipeline that blocks non-compliant Terraform at the pull-request stage, using 10 CIS and custom controls in OPA/Rego | Cloud · DevSecOps · GRC |
 | [**NoorPay GRC Assessment**](https://github.com/zainabthaa/noorpay-grc-assessment) | A NIST SP 800-30 risk assessment, a GDPR/PDPL gap analysis and an incident response plan for a fintech after a breach | GRC |
 | [**Web App Penetration Test**](https://github.com/zainabthaa/web-app-pentest) | SQL injection (auth bypass, UNION extraction, sqlmap) and reflected and stored XSS, written up as a professional report | Offensive · AppSec |
 | [**Glovia Security Review**](https://github.com/zainabthaa/glovia) | A PHP/MySQL site I built, then reviewed and hardened, taking Semgrep findings from 4 to 0 with 18 automated attack tests | AppSec |
